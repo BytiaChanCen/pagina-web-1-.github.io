@@ -1,0 +1,27 @@
+body{
+    /*color de fondo*/
+    background-color: rgb(200, 172, 226);
+    /*letras*/
+    color: rgb(29, 8, 8);
+    /*tipo de fuente*/
+    font-family: 'Tilt Prism', cursive;
+}
+p{/*para cambiar color a los parrafos */
+    color: antiquewhite;
+}
+/*para agregar una clase hay que poner un punto antes del nombre */
+.titulo1 {
+   color: blanchedalmond;
+}
+/*si no lleve un punto afecta todos los elementos*/
+img{
+    /*anchura*/
+    width:100px ;
+    /*altura*/
+    height:250px ;
+
+}
+
+.j1{
+    font-family: 'Times New Roman', Times, serif;
+}
